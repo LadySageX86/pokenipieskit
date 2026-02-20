@@ -1,6 +1,6 @@
-# Pokémon FireRed and LeafGreen
+# Pokémon PugtewMegwe'g and NipiEsgit
 
-This is a decompilation of English Pokémon FireRed and LeafGreen.
+This is a Mi'kmaq fan-translation based on the decompilation of Pokémon FireRed and LeafGreen. This project exists as an effort of language preservation, as there are only about 8000 native Mi'kmaq speakers living in the world today. I myself am still learning, but I hope that this project will help motivate and grow awareness of this beautiful language and culture.
 
 It builds the following ROM images:
 
