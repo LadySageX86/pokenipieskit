@@ -2,16 +2,16 @@ gOtherText_NewName::
     .string "PILEI WISUN$" 
 
 gNameChoice_Green::
-    .string "ESGIT$" 
+    .string "ESKIT$" 
 
 gNameChoice_Red::
-    .string "MEGWE'G$" 
+    .string "MEKWE'K$" 
 
 gNameChoice_Leaf::
     .string "NIPI$" 
 
 gNameChoice_Fire::
-    .string "PUGTEW$" 
+    .string "PUKTEW$" 
 
 gNameChoice_Gary::
     .string "GARY$"
@@ -125,32 +125,29 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "Gegina'mul te'sit pisoqos'ti espe'g$" 
+    .string "Kekina'mul te'sit pisoqos'ti espe'k$" 
 
 gControlsGuide_Text_DPad::
-    .string "Uggwata'q.\n" 
-    .string "Elg megnatl te'sit elqwanig.$"
+    .string "Ukkwata'q.\n" 
+    .string "Elk meknatl te'sit elqwanik.$"
 
 gControlsGuide_Text_AButton::
-    .string "Welte'tg ilsutg, pa'qawajeimatl,\n"
-    .string "sespewo'gwet, aja'sit glusuaqan.$"
+    .string "Welte'tk ilsutk, pa'qawajeimatl,\n"
+    .string "sespewo'kwet, aja'sit klusuaqan.$"
 
 gControlsGuide_Text_BButton::
-    .string "Wejitu'wet, moqwa' ilsutg,\n"
-    .string "moqwa' newtnemi'g.$"
+    .string "Wejitu'wet, moqwa' ilsutk,\n"
+    .string "moqwa' newtnemi'k.$"
 
 gControlsGuide_Text_StartButton::
-    .string "Press this button to open the\n"
-    .string "MENU.$"
+    .string "Pana'latl elqwanik.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "Aja'sit papitaqan aq e'watl\n"
+    .string "papitaqan espe'k.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "Iknmuetoq apoqonmati.$"
 
 gOakSpeech_Text_AskPlayerGender::
     .string "Now tell me. Are you a boy?\n"
