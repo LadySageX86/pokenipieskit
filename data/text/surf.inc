@@ -1,5 +1,5 @@
 Text_WantToSurf::
-	.string "The water is dyed a deep blue…\n"
+	.string "Samqwan essatl melkiknaq ewne'k…\n"
 	.string "Would you like to SURF?$"
 
 Text_UsedSurf::
