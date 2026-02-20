@@ -162,13 +162,13 @@ gPikachuIntro_Text_Page1::
     .string "Kekina'masultieg ms't koqwei.$"
 
 gPikachuIntro_Text_Page2::
-    .string "Pilei'g awti'jl pana's'k ta'n k'il\n"
+    .string "Pilei'k awti'jl pana's'k ta'n k'il\n"
     .string "mawitqo'tmu'tijik, wissuiknematl,\n"
     .string "aq pa'qawajeimatl.\n"
     .string "\n"
-    .string "Jijuaqa, you will be challenged by\n"
-    .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+    .string "Jijuaqa, l'nu kaqamutuit k'il\n"
+    .string "aq jujij kimteluit.\n"
+    .string "Melkitoltiek, saputaqatmek!$"
 
 gPikachuIntro_Text_Page3::
     .string "Through your adventure, we hope\n"
