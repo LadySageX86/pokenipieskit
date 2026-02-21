@@ -1,38 +1,38 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All boys leave home someday.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "KIJU': …Ketloqo.\n"
+    .string "Ms't lpa'tuj naqt'k wikuaq.\l"
+    .string "Na t'oq.\p"
+    .string "O, e'e. MIMKWAQAN, a'se'k,\n"
+    .string "alkwiluatl k'il.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All girls dream of traveling.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "KIJU': …Ketloqo.\n"
+    .string "Ms't girls dream of traveling.\l"
+    .string "Na t'oq.\p"
+    .string "O, e'e. MIMKWAQAN, a'se'k,\n"
+    .string "alkwiluatl k'il.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MOM: {PLAYER}!\n"
-    .string "You should take a quick rest.$"
+    .string "KIJU': {PLAYER}!\n"
+    .string "Atlasmu'teket.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MOM: Oh, good! You and your\n"
-    .string "POKéMON are looking great.\l"
-    .string "Take care now!$"
+    .string "KIJU': O, kelu'lk! Ki'l aq ki'lewei\n"
+    .string "POKéMON welap'tk.\l"
+    .string "Atiu nike'!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-    .string "There's a movie on TV.\n"
-    .string "Four boys are walking on railroad\l"
-    .string "tracks.\p"
-    .string "…I better go, too.$"
+    .string "K'il nemitoq a'tukwaqan.\n"
+    .string "Ne'w lpa'tujk ukkwataq\l"
+    .string "a'sistek puljainawti.\p"
+    .string "…Niktua'l'k elk.$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-    .string "There's a movie on TV.\n"
-    .string "A girl with her hair in pigtails is\l"
-    .string "walking up a brick road.\p"
-    .string "…I better go, too.$"
+    .string "K'il nemitoq a'tukwaqan.\n"
+    .string "E'pite'ji'j enmisa'tkwatp'tesink\l"
+    .string "a'sistek awti etlseknk.\p"
+    .string "…Niktua'l'k elk.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-    .string "Oops, wrong side…$"
+    .string "Quq, keska't…$"
 
