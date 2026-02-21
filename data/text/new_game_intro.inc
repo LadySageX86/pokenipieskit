@@ -7,7 +7,8 @@ gNameChoice_Green::
 gNameChoice_Red::
     .string "MEKWE'K$" 
 
-gNameChoice_Leaf:: .string "NIPI$" 
+gNameChoice_Leaf:: 
+    .string "NIPI$" 
 
 gNameChoice_Fire::
     .string "PUKTEW$" 
@@ -190,7 +191,7 @@ gOakSpeech_Text_ThisWorld::
     .string "Uks'tqamu…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…POKéMON wiaqqatmu'tijik na'te'l!$"
+    .string "…POKéMON wiaqqatmu'tijik na'te'l!\p$"
 
 gOakSpeech_Text_IStudyPokemon::
     .string "Alt l'nu kelo'tk POKéMON uktue'mual.\n"
@@ -209,24 +210,24 @@ gOakSpeech_Text_SoYourNameIsPlayer::
     .string "Ki'lewei wisun {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "Nuji'jg.\p"
+    .string "Nuji'jk.\p"
     .string "Ki'l matnk nekm kaspiew kitk\n"
     .string "mijua'ji'jk.\p"
-    .string "…Erm, koqwei net nuji'jg wisun?$"
+    .string "…Quq, koqwei net nuji'jk wisun?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Nuji'jg wisun, koqwei net?$"
+    .string "Nuji'jk wisun, koqwei net?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "…Uq, {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
     .string "Ketloqo! Mikwite'tm!\n"
-    .string "Nuji'jg wisun {RIVAL}!\p$"
+    .string "Nuji'jk wisun {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Ki'lewei POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "Ki'lewei POKéMON a'tukwaqan\n"
+    .string "na tmk!\p"
+    .string "Uks'tqamu POKéMON pewitaqann aq\n"
+    .string "a'tukwaqan eskmat! Pusultiek!$"
