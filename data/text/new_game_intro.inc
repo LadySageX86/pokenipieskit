@@ -144,7 +144,7 @@ gControlsGuide_Text_StartButton::
 
 gControlsGuide_Text_SelectButton::
     .string "Aja'sit papitaqann aq e'watl\n"
-    .string "papitaqan espe'k.$"
+    .string "ki'lewei papitaqan espe'k.$"
 
 gControlsGuide_Text_LRButtons::
     .string "Iknmuetoq apoqonmati'l.$"
@@ -171,7 +171,7 @@ gPikachuIntro_Text_Page2::
     .string "Melkitoltiek, saputaqatmek!$"
 
 gPikachuIntro_Text_Page3::
-    .string "K'es poqtamkita'iek, jiptuk\n"
+    .string "Ke's poqtamkita'iek, jiptuk\n"
     .string "welteskmek te'sit l'nu\n"
     .string "aq nestu'a'tiek.\n"
     .string "Lkowaqan espe'k.\n"
