@@ -11,12 +11,12 @@ PalletTown_Text_OakGrassUnsafeNeedMon::
     .string "Apaja'sit!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "I'm raising POKéMON, too.\p"
-    .string "When they get strong, they can\n"
-    .string "protect me.$"
+    .string "Anko'tm POKéMON, elk.\p"
+    .string "Ta'nuk nekmow melqa'toq,\n"
+    .string "ikalatl ni'n.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Technology is incredible!\p"
+    .string "Munti'l incredible!\p"
     .string "You can now store and recall items\n"
     .string "and POKéMON as data via PC.$"
 
@@ -30,11 +30,11 @@ PalletTown_Text_RivalsHouse::
     .string "{RIVAL}'s apsi'kan$"
 
 PalletTown_Text_TownSign::
-    .string "WALQWAN KUTAN\n"
+    .string "WALQWAN KJIKAN\n"
     .string "Nipetekmu'tiek milamu'kl!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "MIMKWAQAN: Ah, {PLAYER}!\n"
+    .string "MIMKWAQAN: O, {PLAYER}!\n"
     .string "You're back, are you?\p"
     .string "How much have you filled in your\n"
     .string "POKéDEX?\p"

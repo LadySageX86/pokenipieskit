@@ -154,7 +154,7 @@ gOakSpeech_Text_AskPlayerGender::
 
 gPikachuIntro_Text_Page1::
     .string "Wksitqamuk wejkwa'tiek,\n"
-    .string "poqtamkita'iek ta'n ki'l nikanus.\n"
+    .string "poqtamkita'iek ta'n ki'l kinap.\n"
     .string "\n"
     .string "Keluatl l'nu aq pa'qawajeimatl\n"
     .string "ms't tami, kutann, awti'l,\n"
