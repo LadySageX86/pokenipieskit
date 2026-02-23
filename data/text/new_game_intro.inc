@@ -153,7 +153,7 @@ gOakSpeech_Text_AskPlayerGender::
     .string "Ki'l lpa'tuj kisna e'pite'ji'j?$"
 
 gPikachuIntro_Text_Page1::
-    .string "Uks'tqamu wejkwa'tiek,\n"
+    .string "Wksitqamuk wejkwa'tiek,\n"
     .string "poqtamkita'iek ta'n ki'l nikanus.\n"
     .string "\n"
     .string "Keluatl l'nu aq pa'qawajeimatl\n"
@@ -182,13 +182,13 @@ gPikachuIntro_Text_Page3::
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Kwe'!\n"
     .string "Welta'si a's'kul!\p"
-    .string "Pjila'si uks'tqamu POKéMON!\p"
+    .string "Pjila'si wksitqamuk POKéMON!\p"
     .string "Teluisi MIMKWAQAN.\p"
     .string "Piltu'wi't'k keknue'k\n"
     .string "POKéMON NUJIKINA'MUET.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "Uks'tqamu…$"
+    .string "Wksitqamuk…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…POKéMON wiaqqatmu'tijik na'te'l!\p$"
@@ -229,5 +229,5 @@ gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
     .string "Ki'lewei POKéMON a'tukwaqan\n"
     .string "na tmk!\p"
-    .string "Uks'tqamu POKéMON pewitaqann aq\n"
+    .string "Wksitqamuk POKéMON pewitaqann aq\n"
     .string "a'tukwaqan eskmat! Pusultiek!$"
