@@ -1,67 +1,67 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
+    .string "{RIVAL}: Koqwei, pas'k {PLAYER}?\n"
     .string "Nmijka moqwa' tet.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
     .string "{RIVAL}: Nmijka!\n"
-    .string "I'm fed up with waiting!$"
+    .string "Siwieskmai!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Kwe'! Nmijka! No fair!\n"
-    .string "What about me?$"
+    .string "{RIVAL}: Kwe'! Nmijka! Alua'tu!\n"
+    .string "Weja'tu elk, na to'q?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-    .string "{RIVAL}: Heh, I don't need to be\n"
-    .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, {PLAYER}!$"
+    .string "{RIVAL}: Qeq, moqwa' pisoqqoweieksit\n"
+    .string "nkutei ki'l. Kisikwei!\p"
+    .string "Nikana'sit aq meknatl, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-    .string "{RIVAL}: I'll take this one, then!$"
+    .string "{RIVAL}: Ketapjat'l'k, etna!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} received the {STR_VAR_1}\n"
-    .string "from MIMKWAQAN!$"
+    .string "{RIVAL} mesnatl {STR_VAR_1}\n"
+    .string "MIMKWAQAN!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-    .string "{RIVAL}: My POKéMON looks a lot\n"
-    .string "tougher than yours.$"
+    .string "{RIVAL}: Welamuksultiek\n"
+    .string "ajiglu'sultiek ki'l.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, {PLAYER}!\n"
-    .string "Let's check out our POKéMON!\p"
-    .string "Come on, I'll take you on!$"
+    .string "{RIVAL}: Eskmat, {PLAYER}!\n"
+    .string "Ankaptmek nineiwei POKéMON!\p"
+    .string "Kaqamutul!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-    .string "WHAT?\n"
-    .string "Unbelievable!\l"
-    .string "I picked the wrong POKéMON!$"
+    .string "KOQWEI?\n"
+    .string "Mekt'k!\l"
+    .string "Mekn'k o'pla'teket POKéMON!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
     .string "{RIVAL}: E'e!\n"
-    .string "Am I great or what?$"
+    .string "Wikwasapewit, na to'q?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-    .string "{RIVAL}: Okay! I'll make my\n"
-    .string "POKéMON battle to toughen it up!\p"
-    .string "{PLAYER}! Gramps!\n"
-    .string "Smell you later!$"
+    .string "{RIVAL}: Etna! ilsutekei ni'newei\n"
+    .string "POKéMON matnk aq melqa'toq!\p"
+    .string "{PLAYER}! Nmijka!\n"
+    .string "Pe'l ap ta'n tujiw!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: Gramps!$"
+    .string "{RIVAL}: Nmijka!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
-    .string "{RIVAL}: I almost forgot!\n"
-    .string "What did you call me for?$"
+    .string "{RIVAL}: Suel awanta'si!\n"
+    .string "Koqwei ukjit k'il wikumatl?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-    .string "{RIVAL}: All right, Gramps!\n"
-    .string "Leave it all to me!$"
+    .string "{RIVAL}: Ketloqo, nmijka!\n"
+    .string "Eptoqatk ni'n!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
     .string "{PLAYER}, I hate to say it, but you\n"
     .string "won't be necessary for this.\p"
-    .string "I know! I'll borrow a TOWN MAP\n"
+    .string "I know! I'll borrow a KJIKANN L'SK'J\n"
     .string "from my sis!\p"
     .string "I'll tell her not to lend you one,\n"
     .string "{PLAYER}! Hahaha!\p"
@@ -148,7 +148,7 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
     .string "You have something for me?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} delivered OAK'S PARCEL.$"
+    .string "{PLAYER} nutateji'putoq MIMKWAQAN PARCEL.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Ah! \n"
@@ -157,23 +157,23 @@ PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
     .string "Thank you!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
-    .string "OAK: Oh, right!\n"
-    .string "I have a request for you two.$"
+    .string "MIMKWAQAN: Na to'q!\n"
+    .string "Etamul kitk.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-    .string "On the desk there is my invention,\n"
-    .string "the POKéDEX!\p"
-    .string "It automatically records data on\n"
+    .string "Wetmo'taqan kisi'k epa'suatk\n"
+    .string "ni'newei pataw'ti. Telui'tm POKéDEX!\p"
+    .string "It automatically ewi'k'k data on\n"
     .string "POKéMON you've seen or caught.\p"
     .string "It's a high-tech encyclopedia!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-    .string "OAK: {PLAYER} and {RIVAL}.\n"
+    .string "MIMKWAQAN: {PLAYER} aq {RIVAL}.\n"
     .string "Take these with you.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-    .string "{PLAYER} received the POKéDEX\n"
-    .string "from PROF. OAK.$"
+    .string "{PLAYER} mesn'k POKéDEX\n"
+    .string "from MIMKWAQAN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "OAK: You can't get detailed data\n"
@@ -184,7 +184,7 @@ PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "catching wild POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} received five POKé BALLS.$"
+    .string "{PLAYER} mesn'k na'n POKé TU'AQANK.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
     .string "When a wild POKéMON appears,\n"
@@ -240,10 +240,10 @@ PalletTown_ProfessorOaksLab_Text_OaksLastMon::
     .string "That's PROF. OAK's last POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "Press START to open the MENU!$"
+    .string "Esna'toq (START) pana'latl ELQWANIK!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The SAVE option is on the MENU.\n"
+    .string "The EWI'K'K option is on ELQWANIK.\n"
     .string "Use it regularly.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::

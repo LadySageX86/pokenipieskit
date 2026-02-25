@@ -16,9 +16,9 @@ PalletTown_Text_RaisingMonsToo::
     .string "ikalatl ni'n.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Munti'l incredible!\p"
-    .string "You can now store and recall items\n"
-    .string "and POKéMON as data via PC.$"
+    .string "Pu'taliewe'l piltui!\p"
+    .string "Ika'toq aq mawo'toqol\n"
+    .string "papitaqan aq POKéMON piteg.$"
 
 PalletTown_Text_OakPokemonResearchLab::
     .string "MIMKWAQAN POKéMON KINA'MUO'KUOM$"
@@ -35,33 +35,33 @@ PalletTown_Text_TownSign::
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "MIMKWAQAN: O, {PLAYER}!\n"
-    .string "You're back, are you?\p"
-    .string "How much have you filled in your\n"
+    .string "Ki'l apaja'sit?\p"
+    .string "Ta'sit k'il ewi'k'k ki'lewei\n"
     .string "POKéDEX?\p"
-    .string "May I see it?\p"
-    .string "Let's see…$"
+    .string "Nemi'k?\p"
+    .string "Nemituek…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-    .string "You've caught {STR_VAR_2}…\p"
-    .string "Hm, it looks as if you're putting\n"
-    .string "in an honest effort.\p"
-    .string "When you manage to fill it some\n"
-    .string "more, come show me, please.$"
+    .string "Ki'l mesnatl {STR_VAR_2}…\p"
+    .string "Qm, amalapt'k...\n"
+    .string "Ki'l kina'sit katu.\p"
+    .string "Ta'n ki'l ewi'k'k me' ijka,\n"
+    .string "ewsitutk, wela'latl.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-    .string "You've caught… {STR_VAR_2}!?\n"
-    .string "Now, this is impressive!\p"
-    .string "There's something I wanted to ask\n"
-    .string "of you, {PLAYER}.\p"
-    .string "Come.\n"
-    .string "Follow me.$"
+    .string "Ki'l mesnatl… {STR_VAR_2}!?\n"
+    .string "Nike', jiltek!\p"
+    .string "Pewalk pipanimatl ki'l,\n"
+    .string "{PLAYER}.\p"
+    .string "Wejku'et.\n"
+    .string "Poqtukkwalatl.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
     .string "MIMKWAQAN: Kwe', {PLAYER}!\n"
-    .string "You seem to be enjoying traveling.\p"
-    .string "Knowing you, {PLAYER}, I can easily\n"
-    .string "imagine you going out to even more\l"
-    .string "exotic locales.\p"
-    .string "Good for you, good for you.\n"
+    .string "Ki'l teleiaq kesatk ukkwata'q.\p"
+    .string "Kaqikjij'k ki'l, {PLAYER},\n"
+    .string "milita'si ki'l poqtamka'sit\l"
+    .string "te'sit um'tkiwal mna'q keitmk.\p"
+    .string "Mawiklu'sit, mawiklu'sit!\n"
     .string "Qoqoqo.$"
 

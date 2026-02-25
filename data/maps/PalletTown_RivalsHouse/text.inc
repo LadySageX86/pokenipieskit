@@ -15,15 +15,15 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
     .string "Here, this will help you.$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-    .string "{PLAYER} received a TOWN MAP\n"
+    .string "{PLAYER} received a KJIKANN L'SK'J\n"
     .string "from DAISY.$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
     .string "You don't have space for this in\n"
-    .string "your BAG.$"
+    .string "your MUNTI'.$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-    .string "You can use the TOWN MAP to find\n"
+    .string "You can use the KJIKANN L'SK'J to find\n"
     .string "out where you are, or check the\l"
     .string "names of places.$"
 
@@ -75,7 +75,7 @@ PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "Oh, sorry. I honestly can't\n"
-    .string "groom an EGG.$"
+    .string "groom an WA'W.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "DAISY: Your POKéMON grow to love\n"
