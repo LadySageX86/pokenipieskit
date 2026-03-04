@@ -59,46 +59,45 @@ PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
     .string "Eptoqatk ni'n!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-    .string "{PLAYER}, I hate to say it, but you\n"
-    .string "won't be necessary for this.\p"
-    .string "I know! I'll borrow a KJIKANN L'SK'J\n"
-    .string "from my sis!\p"
-    .string "I'll tell her not to lend you one,\n"
-    .string "{PLAYER}! Hahaha!\p"
-    .string "Don't bother coming around to\n"
-    .string "my place after this!$"
+    .string "{PLAYER}, maskeltm teluei, katu\n"
+    .string "moqwa' wetmite'lmul.\p"
+    .string "Nenk! ukkwe'ji'jl KJIKANN L'SK'J\n"
+    .string "maqatuit!\p"
+    .string "Telimk moqwa' maqatu'atl ki'l,\n"
+    .string "{PLAYER}! Qaqaqa!\p"
+    .string "Mutt ikowaqana'latl nekm\n"
+    .string "mala elmi'knik!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
-    .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
-    .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
-    .string "Haha!\p"
-    .string "The POKéMON are held inside\n"
-    .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
-    .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
+    .string "MIMKWAN: {RIVAL}?\n"
+    .string "Sankewi ankita'sit…\p"
+    .string "Na to'q, telimul\n"
+    .string "wejku'et! Eskmat!\p"
+    .string "Ula, {PLAYER}.\p"
+    .string "Si'sk POKéMON tet.\p"
+    .string "Qaqa!\p"
+    .string "POKéMON pitek weket\n"
+    .string "POKé TU'QANN.\p"
+    .string "Wejkwa'tekemk, n'in\n"
+    .string "espe'k POKéMON NIKANUS.\p"
+    .string "Nike', kaqi'siskekipunai,\n"
+    .string "kekkunatl pas'k si'sk.\p"
+    .string "Iknumuatl ne'wt.\n"
+    .string "Lie tmk! Meknatl!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
+    .string "MIMKWAN: Kiskajiet, {RIVAL}.\n"
+    .string "Kisi meknatl elk!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-    .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
-    .string "POKéMON.\p"
-    .string "Which one will you choose for\n"
-    .string "yourself?$"
+    .string "MIMKWAN: Nike', {PLAYER}.\p"
+    .string "Si'st POKé TU'QANN\n"
+    .string "kekkunatl POKéMON pitek.\p"
+    .string "Teken ki'l meknatl?$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
-    .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
+    .string "MIMKWAN: Kwe'!\n"
+    .string "Mutt ejikla'timk!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
     .string "Ah! CHARMANDER is your choice.\n"
@@ -124,37 +123,38 @@ PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
     .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "from PROF. MIMKWAN!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-    .string "OAK: If a wild POKéMON appears,\n"
+    .string "MIMKWAN: If a wild POKéMON appears,\n"
     .string "your POKéMON can battle it.\p"
     .string "With it at your side, you should be\n"
     .string "able to reach the next town.$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
-    .string "OAK: {PLAYER}, raise your young\n"
+    .string "MIMKWAN: {PLAYER}, raise your young\n"
     .string "POKéMON by making it battle.\p"
     .string "It has to battle for it to grow.$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
-    .string "OAK: Oh, {PLAYER}!\n"
+    .string "MIMKWAN: Oh, {PLAYER}!\n"
     .string "How is my old POKéMON?\p"
     .string "Well, it seems to be growing more\n"
     .string "attached to you.\p"
     .string "You must be talented as a POKéMON\n"
     .string "TRAINER.\p"
-    .string "What's that?\n"
+    .string "Koqwei?\n"
     .string "You have something for me?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} nutateji'putoq MIMKWAN PARCEL.$"
+    .string "{PLAYER} nutateji'putoq\n"
+    .string "MIMKWAN MAWPILAQAN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
-    .string "Ah! \n"
-    .string "It's the custom POKé BALL!\p"
-    .string "I had it on order.\n"
-    .string "Thank you!$"
+    .string "Aq! \n"
+    .string "Kekinue'k POKé TU'QAN!\p"
+    .string "Natkiteket.\n"
+    .string "Wela'lin!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
     .string "MIMKWAN: Na to'q!\n"
@@ -173,10 +173,10 @@ PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "{PLAYER} mesn'k POKéDEX\n"
-    .string "from MIMKWAN.$"
+    .string "MIMKWAN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: You can't get detailed data\n"
+    .string "MIMKWAN: You can't get detailed data\n"
     .string "on POKéMON by just seeing them.\p"
     .string "You must catch them to obtain\n"
     .string "complete data.\p"
@@ -224,7 +224,7 @@ PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "little harder.$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
-    .string "OAK: Come see me sometime.\p"
+    .string "MIMKWAN: Come see me sometime.\p"
     .string "After all, I want to know how your\n"
     .string "POKéDEX is coming along.$"
 
@@ -237,7 +237,7 @@ PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
     .string "They contain POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-    .string "That's PROF. OAK's last POKéMON.$"
+    .string "That's PROF. MIMKWAN's last POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
     .string "Esna'toq (START) pana'latl ELQWANIK!$"
@@ -261,11 +261,11 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "how you rate as a TRAINER!\p"
     .string "POKéMON LEAGUE HQ\n"
     .string "INDIGO PLATEAU\p"
-    .string "PROF. OAK, please visit us!\n"
+    .string "PROF. MIMKWAN, please visit us!\n"
     .string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. OAK's\n"
+    .string "I study POKéMON as PROF. MIMKWAN's\n"
     .string "AIDE.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
@@ -281,13 +281,13 @@ PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "tell anyone.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
-    .string "PROF. OAK is going to have his own\n"
+    .string "PROF. MIMKWAN is going to have his own\n"
     .string "radio show soon.\p"
     .string "The program will be called PROF.\n"
-    .string "OAK's POKéMON SEMINAR.$"
+    .string "MIMKWAN's POKéMON SEMINAR.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
-    .string "PROF. OAK may not look like much,\n"
+    .string "PROF. MIMKWAN may not look like much,\n"
     .string "but he's the authority on POKéMON.\p"
     .string "Many POKéMON TRAINERS hold him in\n"
     .string "high regard.$"
@@ -318,13 +318,13 @@ PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
     .string "everything.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
-    .string "OAK: I know, I know.\n"
+    .string "MIMKWAN: I know, I know.\n"
     .string "Of course I need your help, too.\p"
     .string "Now, I need to see both your\n"
     .string "POKéDEXES.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-    .string "PROF. OAK took both POKéDEX\n"
+    .string "PROF. MIMKWAN took both POKéDEX\n"
     .string "units.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
