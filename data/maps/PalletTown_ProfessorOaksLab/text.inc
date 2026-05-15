@@ -175,24 +175,24 @@ PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "MIMKWAN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "MIMKWAN: You can't get detailed data\n"
-    .string "on POKéMON by just seeing them.\p"
-    .string "You must catch them to obtain\n"
-    .string "complete data.\p"
-    .string "So, here are some tools for\n"
-    .string "catching wild POKéMON.$"
+    .string "MIMKWAN: Nutapukuet POKéMON\n"
+    .string "nemiatl pas'k.\p"
+    .string "Amujpa mesnatl nekmow\n"
+    .string "weja'toq kina'masuti.\p"
+    .string "Iknmaq wetmo'taqan\n"
+    .string "mesnatl waqasit POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
     .string "{PLAYER} mesn'k na'n POKé TU'AQANK.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-    .string "When a wild POKéMON appears,\n"
-    .string "it's fair game.\p"
-    .string "Just throw a POKé BALL at it and\n"
-    .string "try to catch it!\p"
-    .string "This won't always work, however.\p"
-    .string "A healthy POKéMON can escape.\n"
-    .string "You have to be lucky!$"
+    .string "Ta'nuk waqasit POKéMON wejku'et,\n"
+    .string "waltes iljo'qonk.\p"
+    .string "POKé TU'AQAN elaqtoq aq\n"
+    .string "mesnatl POKéMON!\p"
+    .string "Mutt elukwek apjiw.\p"
+    .string "Jajike'k POKéMON alsumukwat.\n"
+    .string "Amujpa lokowit!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
     .string "To make a complete guide on all\n"
