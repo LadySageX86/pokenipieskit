@@ -195,37 +195,37 @@ PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
     .string "Amujpa lokowit!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
-    .string "To make a complete guide on all\n"
-    .string "the POKéMON in the world…\p"
-    .string "That was my dream!\p"
-    .string "But, I'm too old.\n"
-    .string "I can't get the job done.\p"
-    .string "So, I want you two to fulfill my\n"
-    .string "dream for me.\p"
-    .string "Get moving, you two.\p"
-    .string "This is a great undertaking in\n"
-    .string "POKéMON history!$"
+    .string "Ewi'kikei kina'masuti m'st\n"
+    .string "POKéMON peikwaqatk wksitqamuk…\p"
+    .string "Pewai sa'q!\p"
+    .string "Katu, kisiku'et.\n"
+    .string "Ejela'teket.\p"
+    .string "Pewalul ta'pu kaqa'toq\n"
+    .string "ni'newei pewitaqan.\p"
+    .string "Kaqawa'sit, k'il ta'pu.\p"
+    .string "Espe'k lgowaqan\n"
+    .string "POKéMON kina'masuti!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
     .string "POKéMON alapaqetl wksitqamuk\n"
     .string "eskmat ki'l, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
-    .string "Ah, {PLAYER}!\n"
-    .string "How is your POKéDEX shaping up?\p"
-    .string "{RIVAL} has already caught some\n"
-    .string "POKéMON and added to the data.\p"
-    .string "So, {PLAYER}, let's have a look at\n"
-    .string "your POKéDEX.\p"
-    .string "…What's the matter?\n"
-    .string "You've added no new data at all.\p"
-    .string "I'll give you these, so do try a\n"
-    .string "little harder.$"
+    .string "Aq, {PLAYER}!\n"
+    .string "Ki'lewei POKéDEX aja'sit?\p"
+    .string "{RIVAL} ki's mesnatl te's'k\n"
+    .string "POKéMON aq ewi'k'k kina'masuti.\p"
+    .string "Eta, {PLAYER}, ankaptm\n"
+    .string "ki'lewei POKéDEX.\p"
+    .string "…Tale'k?\n"
+    .string "Ki'l mutt ewi'k'k kina'masuti.\p"
+    .string "iknmul weket, kina'sit\n"
+    .string "me' ijka.$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
-    .string "MIMKWAN: Come see me sometime.\p"
-    .string "After all, I want to know how your\n"
-    .string "POKéDEX is coming along.$"
+    .string "MIMKWAN: Emittukwet.\p"
+    .string "Pewatm kaqikji'toq ki'lewei\n"
+    .string "POKéDEX aja'sit.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
     .string "Staqa wi'katikn, katu sikue'k.$"
@@ -235,23 +235,23 @@ PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
     .string "POKéMON pisit!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-    .string "That's PROF. MIMKWAN's last POKéMON.$"
+    .string "Na MIMKWAN uktejkewei POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
     .string "Esna'toq (START) pana'latl ELQWANIK!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The EWI'K'K option is on ELQWANIK.\n"
-    .string "Use it regularly.$"
+    .string "EWI'K'K ELQWANIK.\n"
+    .string "E'w'k kaqi'sk.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
-    .string "All POKéMON types have strong and\n"
-    .string "weak points against others.$"
+    .string "Ms't POKéMON tapunemi'k melkiknat\n"
+    .string "kisna menaqanat matnk iktikik.$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-    .string "There's an e-mail message here.\p"
+    .string "Aknutmaqan tet.\p"
     .string "…\p"
-    .string "Finally!\n"
+    .string "Klapis!\n"
     .string "The ultimate NIKANUSK of the\l"
     .string "POKéMON LEAGUE are ready to\l"
     .string "take on all comers!\p"
@@ -263,11 +263,10 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. MIMKWAN's\n"
-    .string "AIDE.$"
+    .string "Kekina'masi POKéMON nkutei MIMKWAN.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
-    .string "Hi, {PLAYER}. I bet you've become\n"
+    .string "Kwe', {PLAYER}. I bet you've become\n"
     .string "good friends with your POKéMON.\p"
     .string "By the way, did you know about\n"
     .string "DAISY?\p"
@@ -322,21 +321,21 @@ PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
     .string "POKéDEXES.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-    .string "PROF. MIMKWAN took both POKéDEX\n"
-    .string "units.$"
+    .string "MIMKWAN wesua'toq kitk\n"
+    .string "POKéDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
     .string "… … …  … … …\p"
     .string "… … …  … … …\p"
-    .string "…And that's done!\p"
-    .string "Now these units can record data on\n"
-    .string "a lot more POKéMON.$"
+    .string "…Kaqa'tekei!\p"
+    .string "Nike' weket kisa'toq ewi'k'k\n"
+    .string "me' kina'masuti POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-    .string "{PLAYER} POKéDEX was upgraded!$"
+    .string "{PLAYER} POKéDEX ankua'toq!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
-    .string "Now, {PLAYER} and {RIVAL}!\p"
+    .string "Nike', {PLAYER} aq {RIVAL}!\p"
     .string "This time, you really must work\n"
     .string "towards filling your POKéDEXES.\p"
     .string "I urge you to make them the best\n"
