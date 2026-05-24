@@ -60,8 +60,8 @@ Text_Painting::
 	.string "It looks like it's feeling good.$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+	.string "Koqwei net mulin?\n"
+	.string "Mutt maliapt'k!$"
 
 Text_Telephone::
 	.string "It's a telephone.\n"
@@ -97,8 +97,8 @@ Text_BeautifulSkyWindow::
 	.string "beautiful.$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+	.string "Pitiatek milamu'kl\n"
+	.string "wasoqotesink.$"
 
 Text_NeatlyLinedUpTools::
 	.string "All sorts of tools are lined up\n"
