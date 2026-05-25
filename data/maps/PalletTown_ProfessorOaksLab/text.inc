@@ -1,13 +1,13 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
     .string "{RIVAL}: Koqwei, pas'k {PLAYER}?\n"
-    .string "Nmijka moqwa' tet.$"
+    .string "NMIJKA moqwa' tet.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Nmijka!\n"
+    .string "{RIVAL}: NMIJKA!\n"
     .string "Siwieskmai!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Kwe'! Nmijka! Alua'tu!\n"
+    .string "{RIVAL}: Kwe'! NMIJKA! Alua'tu!\n"
     .string "Weja'tu elk, na to'q?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
@@ -19,8 +19,8 @@ PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
     .string "{RIVAL}: Ketapjat'l'k, etna!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} mesnatl {STR_VAR_1}\n"
-    .string "MIMKWAN!$"
+    .string "{RIVAL} mesnatl {STR_VAR_1}.\n"
+    .string "Wela'lin NMIJKA!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "{RIVAL}: Welamuksultiek\n"
@@ -44,18 +44,18 @@ Text_RivalVictory::
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
     .string "{RIVAL}: Etna! ilsutekei ni'newei\n"
     .string "POKéMON matnk aq melqa'toq!\p"
-    .string "{PLAYER}! Nmijka!\n"
+    .string "{PLAYER}! NMIJKA!\n"
     .string "Pe'l ap ta'n tujiw!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: Nmijka!$"
+    .string "{RIVAL}: NMIJKA!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
     .string "{RIVAL}: Suel awanta'si!\n"
     .string "Koqwei ukjit k'il wikumatl?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-    .string "{RIVAL}: Ketloqo, nmijka!\n"
+    .string "{RIVAL}: Ketloqo, NMIJKA!\n"
     .string "Eptoqatk ni'n!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
@@ -122,8 +122,8 @@ PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
     .string "nalakit!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
-    .string "{PLAYER} mesnatl {STR_VAR_1}\n"
-    .string "MIMKWAN!$"
+    .string "{PLAYER} mesnatl {STR_VAR_1}.\n"
+    .string "Wela'lin MIMKWAN!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
     .string "MIMKWAN: Tliaq POKéMON waqasit neia'sit,\n"
@@ -171,8 +171,8 @@ PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
     .string "Wesua'tumk wla.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-    .string "{PLAYER} mesn'k POKéDEX\n"
-    .string "MIMKWAN.$"
+    .string "{PLAYER} mesn'k POKéDEX.\n"
+    .string "Wela'lin MIMKWAN!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "MIMKWAN: Nutapukuet POKéMON\n"
@@ -303,7 +303,7 @@ PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
     .string "{RIVAL}: Kwe', metewenk!\p"
-    .string "Nmijka, tal kis piamiksalatl\n"
+    .string "NMIJKA, tal kis piamiksalatl\n"
     .string "{PLAYER} piamiw ni'n apjiw?\p"
     .string "Meknk piamiw POKéMON,\n"
     .string "aq jaqala'tu, elk.\p"
@@ -340,7 +340,7 @@ PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
     .string "kina'matimk POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
-    .string "{RIVAL}: Nmijka, atlasmit.\n"
+    .string "{RIVAL}: NMIJKA, atlasmit.\n"
     .string "Mutt nenaqite'tk.\p"
     .string "Ni'n kaqa'toq POKéDEX,\n"
     .string "mutt sespete'tk wla.\p"

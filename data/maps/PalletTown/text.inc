@@ -43,7 +43,7 @@ PalletTown_Text_OakLetMeSeePokedex::
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
     .string "Ki'l mesnatl {STR_VAR_2}…\p"
-    .string "Qm, amalapt'k...\n"
+    .string "Qm, amalapt'k…\n"
     .string "Ki'l kina'sit katu.\p"
     .string "Ta'n ki'l ewi'k'k me' ijka,\n"
     .string "ewsitutk, wela'latl.$"
