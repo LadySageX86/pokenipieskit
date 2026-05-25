@@ -870,7 +870,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} keluatl kjiniskam.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -886,7 +886,7 @@ gText_PkmnFainted3::
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKéMON CENTER!\p"
+	.string "Pjila'si POKéMON KSNUKO'KUOM!\p"
 	.string "Would you like me to heal your\n"
 	.string "POKéMON back to perfect health?$"
 
