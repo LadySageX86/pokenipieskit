@@ -1,10 +1,10 @@
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-    .string "DAISY: Kwe', {PLAYER}!\p"
+    .string "TANSI: Kwe', {PLAYER}!\p"
     .string "Uksisl {RIVAL} emittukwatk\n"
     .string "NMIJKA KINA'MUO'KUOM.$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-    .string "DAISY: {PLAYER}, nutmai\n"
+    .string "TANSI: {PLAYER}, nutmai\n"
     .string "ki'l matnk {RIVAL}.\p"
     .string "Na'jikai nemitu wla!$"
 
@@ -16,7 +16,7 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
     .string "{PLAYER} mesn'k KJIKANN L'SK'J.\n"
-    .string "Wela'lin DAISY!$"
+    .string "Wela'lin TANSI!$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
     .string "Ki'lewei MUNTI' wajueknepit.$"
@@ -27,7 +27,7 @@ PalletTown_RivalsHouse_Text_ExplainTownMap::
     .string "kekina'masit kjikann wisunn.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-    .string "DAISY: Nkutei l'nu,\n"
+    .string "TANSI: Nkutei l'nu,\n"
     .string "POKéMON nimajit.\p"
     .string "Ta'n nekmow kispniet,\n"
     .string "atlasmu'latl.$"
@@ -41,7 +41,7 @@ PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
 	.string "kekina'matimkewei.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
-    .string "DAISY: Kwe', {PLAYER}!\n"
+    .string "TANSI: Kwe', {PLAYER}!\n"
     .string "Naqsipkisink.\p"
     .string "Wikumul, epa'sit.\p"
     .string "O, katu, kilewewei\n"
@@ -56,16 +56,16 @@ PalletTown_RivalsHouse_Text_GroomWhichOne::
     .string "Teken newt pankwenk?$"
 
 PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
-    .string "DAISY: Oke', ne'tma'sit!\n"
+    .string "TANSI: Oke', ne'tma'sit!\n"
     .string "Jaqalilukwet!$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
     .string "{COLOR DARK_GRAY}{STR_VAR_1} jajikamuksit…\p"
-    .string "{COLOR RED}DAISY: Ala! Kaqalukwei.\n"
+    .string "{COLOR RED}TANSI: Ala! Kaqalukwei.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
     .string "{FONT_NORMAL}{STR_VAR_1} jajikamuksit…\p"
-    .string "{FONT_FEMALE}DAISY: Ala! Kaqalukwei.\n"
+    .string "{FONT_FEMALE}TANSI: Ala! Kaqalukwei.\n"
 #endif
     .string "Wikwasamu'k?\p"
     .string "Weskewei…\n"
@@ -76,47 +76,42 @@ PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "WA'W, melujioqo.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-    .string "DAISY: Kilewewei POKéMON kesalatl\n"
+    .string "TANSI: Kilewewei POKéMON kesalatl\n"
     .string "Ta'n tlipkije'k ankweiwatl kesalatl.\p"
     .string "For example, {PLAYER}, may I see\n"
     .string "your first POKéMON?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
-    .string "It couldn't possibly love you\n"
-    .string "any more than it does now.\p"
-    .string "Your POKéMON is happy beyond\n"
-    .string "words.$"
+    .string "Kesalatl ki'l piamiw me' wen!\p"
+    .string "Ki'lewei mawiulta'sit.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
-    .string "It looks very happy.\p"
-    .string "I wish {RIVAL} could see this and\n"
-    .string "learn something from it.$"
+    .string "Weljesink.\p"
+    .string "Na'jikai {RIVAL} nemitu aq\n"
+    .string "kekina'masit.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
-    .string "It's quite friendly with you.\n"
-    .string "Keep being good to it!$"
+    .string "Ni'laje'k.\n"
+    .string "Siawa'sit na kelu'lk!$"
 
 PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
-    .string "It's warming up to you.\n"
-    .string "Trust must be growing between you.$"
+    .string "Apu'jenatl.\n"
+    .string "Pujite'lmatl.$"
 
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
-    .string "It's not quite familiar with you\n"
-    .string "yet.\p"
-    .string "POKéMON are all quite wary when\n"
-    .string "you first get them.$"
+    .string "Mnaq nenuatl ki'l\p"
+    .string "POKéMON ms't metuie'tk\n"
+    .string "ta'n ki'l mesnatl.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-    .string "{PLAYER}, I don't like the way it\n"
-    .string "glares at you.\p"
-    .string "Could you try being a little nicer\n"
-    .string "to it?$"
+    .string "{PLAYER}, Mutt gesatm…\n"
+    .string "Winikwetutk.\p"
+    .string "Kina'sit uleiatimkewei.$"
 
 PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
-    .string "…Um, it's not easy for me to say\n"
-    .string "this, but…\p"
-    .string "Is there some reason why your\n"
-    .string "POKéMON would hate you so much?$"
+    .string "…O, mutt o'plapukuet…\n"
+    .string "Koqwei ukjit ki'lewei\n"
+    .string "POKéMON maskelmatl te'sit?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
     .string "“Esmatmuksit aq sekkw\n"

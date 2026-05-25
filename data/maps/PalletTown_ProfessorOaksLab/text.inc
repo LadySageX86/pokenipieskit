@@ -267,8 +267,8 @@ PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "Kwe', {PLAYER}. Amujpa eliatl\n"
     .string "POKéMON kilewewei oqote'tut.\p"
-    .string "Elk, nenuatl DAISY?\p"
-    .string "Ewsitutk DAISY kilewewei POKéMON,\n"
+    .string "Elk, nenuatl TANSI?\p"
+    .string "Ewsitutk TANSI kilewewei POKéMON,\n"
     .string "nekm aknutmuatl ta's'k kesalatl ki'l.\p"
     .string "Jijuaqa, nekm pankwenatl\n"
     .string "kilewewei POKéMON.\p"
